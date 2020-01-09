@@ -1,4 +1,4 @@
-# Setup Guide for Windows
+# Setup Guide for Windows 10
 ## The big three: a browser, an editor, and a terminal
 ### Browser
 * [Google Chrome](https://www.google.com/chrome/) is an often-recommended web browser for developers due to the powerful [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) that allow developers to inspect and debug code. Other browsers have introduced developer tools as well, but for this course, we recommend Google Chrome.
