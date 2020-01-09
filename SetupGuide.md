@@ -23,6 +23,10 @@ sudo apt-get install build-essential
 echo 'eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)' >>~/.zprofile
 eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
 ```
+* Install Node
+```bash
+brew install node
+```
 
 ## Some useful links
 * [Setting up homebrew and working with WSL in Windows 10](https://medium.com/@edwardbaeg9/using-homebrew-on-windows-10-with-windows-subsystem-for-linux-wsl-c7f1792f88b3)
