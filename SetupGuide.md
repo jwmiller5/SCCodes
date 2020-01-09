@@ -28,6 +28,9 @@ eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
 brew install node
 ```
 
+* Install [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab)
+
+
 ## Some useful links
 * [Setting up homebrew and working with WSL in Windows 10](https://medium.com/@edwardbaeg9/using-homebrew-on-windows-10-with-windows-subsystem-for-linux-wsl-c7f1792f88b3)
 * [Developing in WSL](https://code.visualstudio.com/docs/remote/wsl) - explains how to install Visual Studio Code in Windows and keep all of your code and commands in WSL
