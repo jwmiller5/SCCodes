@@ -7,7 +7,7 @@
 ### Terminal
 We will install and configure a Linux terminal in Windows to ensure new developers learn the commands needed and can switch between Linux/Mac/Windows environments. This also makes maintaining the courses easier as the same commands can be used, rather than creating environment-specific instructions.
 * Instructions for [installing Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10) on Windows 10 
-  * I chose Ubuntu 16.04 for my linux distro
+  * I chose Ubuntu 18.04 for my linux distro. If you just search the store for Ubuntu, the installer will get the latest version.
 * Install zsh and Oh My Zsh
 
 ```bash
