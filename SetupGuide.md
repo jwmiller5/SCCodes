@@ -2,6 +2,7 @@
 ## The big three: a browser, an editor, and a terminal
 ### Browser
 * [Google Chrome](https://www.google.com/chrome/) is an often-recommended web browser for developers due to the powerful [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) that allow developers to inspect and debug code. Other browsers have introduced developer tools as well, but for this course, we recommend Google Chrome.
+* [Microsoft Edge](https://www.microsoft.com/en-us/edge) is a cross platform web browser that uses the [Chromium rendering engine](https://github.com/MicrosoftEdge/MSEdge) .... which makes it compatible with Chrome. No more weird compatability bugs. All SC Codes courses will run without errors in Edge as well as Chrome.
 ### Editor
 * A major improvement to your development environment will be the use of a dedicated text editor. [Visual Studio Code](https://code.visualstudio.com/) is a free development environment with Git support built in and extensions for all of the languages covered in our courses.
 ### Terminal
