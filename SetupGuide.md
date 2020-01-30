@@ -38,9 +38,7 @@ brew install node
 * [Setting up homebrew and working with WSL in Windows 10](https://medium.com/@edwardbaeg9/using-homebrew-on-windows-10-with-windows-subsystem-for-linux-wsl-c7f1792f88b3)
 * [Synthwave inspired theme for VS Code](https://marketplace.visualstudio.com/items?itemName=webrender.synthwave-x-fluoromachine)
    * Reminder that everytime vscode gets an update, you will need to reload the custom css
-   * Launch vscode in Windows
+   * Launch vscode in Windows. After reloading the custom css you will need to restart vscode and possibly dismiss a warning message 
 ```
 Ctrl+Shift+P -> Reload custom css
-```
-   * restart vscode
-  
+```  
