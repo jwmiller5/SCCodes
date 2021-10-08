@@ -30,8 +30,6 @@ eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
 brew install node
 ```
 
-* Install [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab)
-
 * [Configure Visual Studio Code to run from WSL.](https://code.visualstudio.com/docs/remote/wsl)
 
 ## Some useful links
