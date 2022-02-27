@@ -18,4 +18,4 @@
 
 ### Where to ask good questions
 - [Stack Overflow](https://stackoverflow.com)
-- [SC Codes Slack](https://sccodes.org/join-slack) Use #codehelp or #javascript-concepts
+- [SC Codes Slack](https://sccodes.org/join-slack) Use #codehelp
